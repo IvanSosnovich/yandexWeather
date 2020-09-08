@@ -1,0 +1,20 @@
+PODS:
+  - Alamofire (5.2.1)
+  - SwiftSVG (2.3.2)
+
+DEPENDENCIES:
+  - Alamofire
+  - SwiftSVG
+
+SPEC REPOS:
+  trunk:
+    - Alamofire
+    - SwiftSVG
+
+SPEC CHECKSUMS:
+  Alamofire: e911732990610fe89af59ac0077f923d72dc3dfd
+  SwiftSVG: ca7f64e403b8ea7ea8eba8c823b83ba4a059834c
+
+PODFILE CHECKSUM: 5fdd0823cbe1f63649f1ae0483ac631e2a3303f5
+
+COCOAPODS: 1.8.4
